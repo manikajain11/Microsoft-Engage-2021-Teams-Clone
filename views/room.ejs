@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Microsoft Teams</title>
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <!-- Adding the PeerJS Library to render the services of WebRTC into our application -->
+    <script src="https://unpkg.com/peerjs@1.3.1/dist/peerjs.min.js"></script>
+    <!-- Rendering the PeerJS API into the application for enabling features -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/peerjs/1.3.1/peerjs.min.js.map"></script>
+    <!-- Enabling web sockets into the application -->
+    <script src="/socket.io/socket.io.js"></script>
+    <script>
+      const ROOM_ID = "<%= roomId %>";                     /*Providing Unique Room ID */
+    </script>
+  </head>
+  <body>
+    <div class="main">
+      <div class="main__left">
+        <div class="main__videos">
+          <div id="video-grid"></div>
+        </div>
+        <div class="main__controls">
+          <div class="main__controls_block">
+            <!-- MAIN BUTTONS -->
+            <!-- Mute/Unmute -->
+            <button
+              class="main__controls_button"
+              id="muteButton"                            
+              onclick="muteUnmute()"
+              title="Toggle microphone"
+            >
+              <i class="fa fa-microphone"></i>
+              <!-- <span>Mute</span> -->
+            <!-- </div> -->
+
+            <!-- Pause/Unpause Video Stream -->
+            <button
+              class="main__controls_button"
+              id="playPauseVideo"
+              onclick="playStop()"
+              title="Toggle camera"
+            >
+              <i class="fa fa-video-camera"></i>
+              <!-- <span>Pause Video</span> -->
+            <!-- </div> -->
+          </div>
+
+          <!-- Security in the Application -->
+          <div class="main__controls_block">
+            <button class="main__controls_button" id="security" title="Security">
+              <i class="fa fa-shield"></i>
+              <!-- <span>Security</span> -->
+            <!-- </div> -->
+            <!-- No. of Participants -->
+            <button class="main__controls_button" id="users" title="Show everyone">
+              <i class="fa fa-users"></i>
+              <!-- <span>Participants</span> -->
+            <!-- </div> -->
+            <!-- CHAT FEATURE -->
+            <button class="main__controls_button" id="chat" title="Chat with everyone">
+              <i class="fa fa-comment"></i>
+              <!-- <span>Chat</span> -->
+            <!-- </div> -->
+          </div>
+
+          <!-- Leave the Meeting -->
+          <div class="main__controls_block">
+            <button class="main__controls_button leaveMeeting" id="leave-meeting" title="Leave meeting">
+              <i class="fa fa-phone fa-rotate"></i>
+              <!-- <span class="">Leave Meeting</span> -->
+            <!-- </div> -->
+          </div>
+        </div>
+      </div>
+      <div class="main__right">
+        <div class="main__header">
+          <h6>Chat</h6>
+        </div>
+        <!-- Main Chat Window for Text Messages -->
+        <div class="mainChatWindow" id="mainChatWindow">
+          <ul class="messages" id="allTextMessages"></ul>
+        </div>
+        <div class="main__message_container">
+          <input
+            type="text"
+            id="chat_message"
+            placeholder="Type your messages here.."
+          />
+        </div>
+      </div>
+    </div>
+    <script src="script.js"></script>                
+  </body>
+</html>

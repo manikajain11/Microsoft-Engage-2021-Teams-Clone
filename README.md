@@ -36,9 +36,13 @@ Cut back to today, the answer is Microsoft Teams. A collaboration platform that 
 Some of the notable features of Microsoft Teams that makes it stand out from other collaboration software 🌠:
 - [x] **Teams and Channels**
 - [x] **Conversations within Channels and Teams**
-- [x] **A Chat Feature
+- [x] **A Chat Feature**
 - [x] **Document Storage in SharePoint**
-- [x] **Online video calling and screen sharing
+- [x] **Online video calling and screen sharing**
 - [x] **Audio Conferencing**
 - [x] **Full telephony**    
-- [ ] 
+
+----------------------------------------------------------------------
+# Methodology and Principles Used  
+----------------------------------------------------------------------
+

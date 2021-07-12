@@ -8,20 +8,33 @@ Presenting to you the Clone of Microsoft Teams, 'Engage' with enhanced features.
 ![alt text](https://user-images.githubusercontent.com/72864182/125263925-0c04d000-e321-11eb-9e7f-f9abf691a9a7.png "Landing Page")  
 
 [Link to Figma file](https://www.figma.com/file/puvOiVDJUYGZPa3HJlJ81u/Microsoft-Teams-Clone-UI%2FUX?node-id=0%3A1)
-
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Enjoy a Seamless Experience with Engage!  
-- [x] **User**👱‍♂️:  : Oh right, that's you!   
-- [x] **Participant**👱‍♀️:  : And that's your friend!  
-- [x] **Multiple Participants** 👨‍👦‍👦:   : Wish to call your friends? No worries!  
+- [x] **User**👱‍♂️  : Oh right, that's you!   
+- [x] **Participant**👱‍♀️  : And that's your friend!  
+- [x] **Multiple Participants** 👨‍👦‍👦   : Wish to call your friends? No worries!  
 - [x] **Unique Room**  : Enjoy an individual room for you and your members!  
 - [x] **Mute/Unmute** 🎤: : Want to have the flexibility to mute/unmute yourself? You're in the right place.  
-- [x] **Video ON/OFF** 👀: : Do you want to keep your video-streaming ON? Or OFF? You'll not be disappointed!  
+- [x] **Video ON/OFF** 👀 : Do you want to keep your video-streaming ON? Or OFF? You'll not be disappointed!  
 - [x] **Surprise Element**: Chat with your friends while in the meeting. All aboard! 🎇:
 - [x] **Security**: Ensures that your unique room is safe from intrusion. 
-- [x] **Leave Meeting** 👩‍💻: : Leave the room at any given time you want!
+- [x] **Leave Meeting** 👩‍💻 : Leave the room at any given time you want!
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Table of Contents
+- Product Description
+- Methodology and Principles
+- Languages and Technology used
+- User Journey
+- Notable Features
+- Code Performance and Optimisation
+- Frameworks used
+- Future Improvements/Integrations
+- External Questions
+- References
+- Support
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 

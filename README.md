@@ -32,3 +32,13 @@ Cut back to today, the answer is Microsoft Teams. A collaboration platform that 
 
 <a href="url"><img src = "https://techcommunity.microsoft.com/t5/image/serverpage/image-id/220350iAB12F9D09E4FB916/image-size/large?v=v2&px=999" align = "center"></a>
 [Img Source](https://www.zdnet.com/article/microsoft-teams-is-now-at-145-million-daily-active-users/)
+
+Some of the notable features of Microsoft Teams that makes it stand out from other collaboration software 🌠:
+- [x] **Teams and Channels**
+- [x] **Conversations within Channels and Teams**
+- [x] **A Chat Feature
+- [x] **Document Storage in SharePoint**
+- [x] **Online video calling and screen sharing
+- [x] **Audio Conferencing**
+- [x] **Full telephony**    
+- [ ] 

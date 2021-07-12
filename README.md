@@ -7,6 +7,7 @@ Presenting to you the Clone of Microsoft Teams, 'Engage' with enhanced features.
 
 ![alt text](https://user-images.githubusercontent.com/72864182/125263925-0c04d000-e321-11eb-9e7f-f9abf691a9a7.png "Landing Page")  
 
+[Link to Figma file](https://www.figma.com/file/puvOiVDJUYGZPa3HJlJ81u/Microsoft-Teams-Clone-UI%2FUX?node-id=0%3A1)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -101,7 +102,6 @@ This particular protoype depicts the video conferencing along with the in-built 
 ![alt text](https://user-images.githubusercontent.com/72864182/125288908-45970480-e33c-11eb-9d48-df7240017dde.png "Chat Feature") 
 
 [Link to Figma file](https://www.figma.com/file/puvOiVDJUYGZPa3HJlJ81u/Microsoft-Teams-Clone-UI%2FUX?node-id=0%3A1)
-
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Important Features
@@ -128,6 +128,7 @@ Want to join a meeting but keep the video OFF? I got you covered!
 Now that you have successfully landed in the meeting, how do you communicate with your peers? Well, the chat feature is here to help you!
 ![image](https://user-images.githubusercontent.com/72864182/125300261-7a5c8900-e347-11eb-8b1b-a96bb823989d.png)
 
+Visit ['Engage'](https://engage-microsoft-teams-clone.herokuapp.com/) to access the deployed application.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Code Performance and Optimisation ➕
@@ -138,5 +139,45 @@ Now that you have successfully landed in the meeting, how do you communicate wit
 # Frameworks Used 📁
 
 ## WebRTC
+WebRTC is an open framework for the web that provides browsers and mobile applications with Real-Time Communications (RTC) capabilities without the need of either internal or external plugins. It enables all kinds of real time communications such as audio, video and text between users by utilizing the browsers. It is a free and provides high quality. The fundamental reason why I opted for WebRTC are:
+* **Ease of Use** : Real Time communications are supported without the need for additional applications or plug-ins.
+* **Secutity** : WebRTC enforces the usage of encryption for the media.
 
+![alt_text](https://user-images.githubusercontent.com/72864182/125329977-c61d2b80-e363-11eb-9df6-214db88ed60e.png "Flowchart for WebRTC")
 
+## Bootstrap UI:
+Bootstrap is a free and open-source front-end library for creating websites and web applications. It contains HTML- and CSS-based design templates for typography, forms,   buttons, navigation and other interface components, as well as optional JavaScript extensions. It aims to ease the development of dynamic websites and web applications. It has been used mainly for creating and proper positioning of elements. 
+
+-------------------------------------------------------------------------
+
+# Future Improvements :dart: 
+- Screen Sharing feature 💻
+- Record meetings feature ⏺️
+- User Registry / Authentication 👦
+- Mobile compatibility 📱
+- In-App Integrations (Spotify, Microsoft 365, etc) 🎵
+- Integrated bot 🤖
+- In-Built Calendar Feature 📆
+- Bookmark Conversations 🔖
+
+-----------------------------------
+# External Questions ❓:
+**Can external participants join a meeting?** 
+- Absolutely! In fact, you can share the same link with all meeting participants, making it easier to get everyone you need on the call.
+
+**Do I need to install or pay anything?**
+- Zero, zip, zilch, nada! The application is totally free and you don't need to install anything for it!
+
+-----------------------------------
+# References 📚:
+- [Tutorial on WebRTC - I](https://webrtc.org/)
+- [Tutorial on WebRTC - II](https://www.html5rocks.com/en/tutorials/webrtc/basics/)
+- [Introduction to Node.js](https://medium.com/jspoint/introduction-to-node-js-a-beginners-guide-to-node-js-and-npm-eca9c408f9fe)
+- [Client-Server Architecture for Chat Application](https://yellow.systems/blog/guide-to-the-chat-architecture)
+- [Ngrok](https://ngrok.com/product)
+- [Frontend-I](https://uxplanet.org/top-ui-design-principles-to-keep-in-mind-bfb3ad8790c6)  
+- [Frontend-II](https://medium.com/@esharanjit/ui-ux-case-study-microsoft-teams-dbe25e27d969)  
+
+-----------------------------------
+# Support 🤗:
+For any queries or problems that might arise with regards to the project, the author can be contacted at manikajain11@gmail.com 

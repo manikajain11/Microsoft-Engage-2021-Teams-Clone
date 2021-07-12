@@ -7,6 +7,14 @@ const allTextMessages = document.getElementById("allTextMessages");         //al
 const mainChatWindow = document.getElementById("mainChatWindow");        //main chat window
 const videoGrid = document.getElementById("video-grid");          //display video
 const myVideo = document.createElement("video");                  //on-screen video
+//enabling TURN/STUN server
+const configuration = {
+  iceServers: [{   
+    urls: [ "stun:bn-turn1.xirsys.com" ]}, {   
+      username: "cGWtB0oCXpelZRG2qHeb7kjCMDzBh_0ou-vJnlodd4DiQ9Bz297BXKt8iBJ9x5H9AAAAAGDsU5htYW5pa2FqYWluMTE=",   
+      credential: "a52324b0-e31e-11eb-86f2-0242ac140004",   
+      urls: [       "turn:bn-turn1.xirsys.com:80?transport=udp"   ]}]
+}
 myVideo.muted = true;
 
 /* --------------------------------------------------- */

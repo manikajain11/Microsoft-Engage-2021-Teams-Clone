@@ -3,4 +3,4 @@
 Presenting to you the Clone of Microsoft Teams with enhanced features.<br></h3>
 <h2 align="center"><a href="https://engage-microsoft-teams-clone.herokuapp.com/">Microsoft-Teams-Clone</a></h2>
 
-#### Microsoft Teams Clone,' :earth_africa:' a video conferencing and in-built chat web application that helps you connect, chat, call and collaborate in just one place!
+#### 'Microsoft Teams Clone,:earth_africa:' a video conferencing and in-built chat web application that helps you connect, chat, call and collaborate in just one place!

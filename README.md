@@ -9,3 +9,14 @@ Presenting to you the Clone of Microsoft Teams with enhanced features.<br></h3>
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Enjoy a Seamless Experience with Microsoft Teams!  
+- [x] **User**👱‍♂️:  : Oh right, that's you!   
+- [x] **Participant**👱‍♀️:  : And that's your friend!  
+- [x] **Multiple Participants** 👨‍👦‍👦:   : Wish to call your friends? No worries!  
+- [x] **Unique Room**  : Enjoy an individual room for you and your members!  
+- [x] **Mute/Unmute** 🎤: : Want to have the flexibility to mute/unmute yourself? You're in the right place.  
+- [x] **Video ON/OFF** 👀: : Do you want to keep your video-streaming ON? Or OFF? You'll not be disappointed!  
+- [x] **Surprise Element**: Chat with your friends while in the meeting. All aboard! 🎇:
+- [x] **Security**: Ensures that your unique room is safe from intrusion. 
+- [x] **Leave Meeting** 👩‍💻: : Leave the room at any given time you want!

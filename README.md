@@ -29,3 +29,6 @@ Presenting to you the Clone of Microsoft Teams, Engage with enhanced features.<b
 ### Microsoft Teams
 The global workforce underwent a shocking and rapid switch to remote work during the COVID-19 pandemic. But that shift was never going to be temporary. The pandemic only accelerated a trend towards flex working that was well underway in 2019. The expected change posed a big question: How will workers collaborate when they're dispersed and constantly moving?
 Cut back to today, the answer is Microsoft Teams. A collaboration platform that unifies chat, voice, video and file sharing as part of the Microsoft Office 365. It is currently designed to be used by local, remote and distributed work groups - anyone in any company, really! 🌃
+
+![alt text](https://www.zdnet.com/a/hub/i/2021/04/27/ff2ca9e0-4b9c-4d45-bb1c-5ac48a1a5887/teams145million.jpg "MS Teams")
+[Img Source](https://www.zdnet.com/article/microsoft-teams-is-now-at-145-million-daily-active-users/)

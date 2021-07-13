@@ -81,7 +81,7 @@ The entire workflow of the web application was deployed using the principles of 
 
 # Supporting Documentation
 - [Figma Designs and Prototypes](https://www.figma.com/file/puvOiVDJUYGZPa3HJlJ81u/Microsoft-Teams-Clone-UI%2FUX?node-id=0%3A1)
-- [Video Demonstration of the Project](https://www.figma.com/file/puvOiVDJUYGZPa3HJlJ81u/Microsoft-Teams-Clone-UI%2FUX?node-id=0%3A1)
+- [Video Demonstration of the Project](https://youtu.be/H4SvB4KLa2o)
 - [Agile Scrum Methodology](https://microsoft-teams-clone-project.atlassian.net/wiki/spaces/MS/pages/131221/Microsoft+Teams+Clone)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -152,7 +152,17 @@ Visit ['Engage'](https://engage-microsoft-teams-clone.herokuapp.com/) to access 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Code Performance and Optimisation ➕
--google insights and put ss, write what you did for optimisation from the metrics obtained
+The performance of the video conferencing web-application is calculated and optimised using [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+- The following metrics are obtained for the hosted applications and optimisation techniques are adopted post that. 
+
+![image](https://user-images.githubusercontent.com/72864182/125499007-d2782a96-e89f-482d-b98e-5437f2164955.png)
+![image](https://user-images.githubusercontent.com/72864182/125499105-01bd0884-432b-4879-8af4-3b630fcbfe7b.png)
+
+## Optimisation
+The following processes were adopted to efficiently increase the code performance and delivery of the application:
+- ✔️ **Eliminate render blocking resources** : Since some resources were blocking the first paint of my application, I assimilated delivering critical JS/CSS inline and deferring all non-critical JS/styles.
+- ✔️ **Uniform text** : Leveraged the font-display CSS feature to ensure text is user-visible while webfonts are loading.
+- ✔️ **Chaining Requests** : Considering the length of chains, I reduced the download size of resources, and deferred the download of unnecessary resources to improve page load.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 

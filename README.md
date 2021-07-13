@@ -79,6 +79,13 @@ The entire workflow of the web application was deployed using the principles of 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+# Supporting Documentation
+- [Figma Designs and Prototypes](https://www.figma.com/file/puvOiVDJUYGZPa3HJlJ81u/Microsoft-Teams-Clone-UI%2FUX?node-id=0%3A1)
+- [Video Demonstration of the Project](https://www.figma.com/file/puvOiVDJUYGZPa3HJlJ81u/Microsoft-Teams-Clone-UI%2FUX?node-id=0%3A1)
+- [Agile Scrum Methodology](https://microsoft-teams-clone-project.atlassian.net/wiki/spaces/MS/pages/131221/Microsoft+Teams+Clone)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # User Journey
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
